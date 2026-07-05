@@ -37,10 +37,10 @@ Thumbs.db
 
 # Local agent / generated assets
 *.png
+Generated_image*.png
 .agents/
 AGENTS.md
 CHANGELOG.md
 docs/
-Generated_image*.png
 plan.md
 samples/
