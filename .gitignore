@@ -1,0 +1,8 @@
+*.png
+Generated_image*.png
+.agents/
+AGENTS.md
+CHANGELOG.md
+docs/
+plan.md
+samples/
